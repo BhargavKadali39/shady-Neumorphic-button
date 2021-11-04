@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,900&family=Lato:ital,wght@1,900&display=swap');
+
 body{
     margin: 0;
     padding: 0%;
@@ -12,7 +13,6 @@ body{
     width: 250px;
     background-color: rgb(25, 37, 56);
     color: #a8a8a8;
-    /*border-radius:49% 64% 15% 44% / 32% 48% 37% 37% ;*/
     border-radius: 49% 64% 35% 41% / 100% 68% 67% 37% ;
     display: block;
     margin:  300px 0 0px 600px;
@@ -22,6 +22,7 @@ body{
     transition: all 1s ease-in-out;
     box-shadow: inset -11px 7px 20px 3px #0c1016, inset -18px 2px 20px 8px #304058;
     }
+
 .surface button:hover{
     box-shadow: inset 6px -6px 20px 3px #0c1016, inset -8px 16px 20px 8px #304058;
     border-radius: 49% 51% 49% 51% / 80% 18% 82% 20% ;

@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,900&family=Lato:ital,wght@1,900&display=swap');
 body{
     margin: 0;
@@ -20,7 +19,7 @@ body{
     border: none;
     font-size: 20px;
     letter-spacing: 1px;
-    transition: box-shadow,border-radius 2s;
+    transition: all 1s ease-in-out;
     box-shadow: inset -11px 7px 20px 3px #0c1016, inset -18px 2px 20px 8px #304058;
     }
 .surface button:hover{

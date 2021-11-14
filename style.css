@@ -21,6 +21,7 @@ body{
     letter-spacing: 1px;
     transition: all 1s ease-in-out;
     box-shadow: inset -11px 7px 20px 3px #0c1016, inset -18px 2px 20px 8px #304058;
+    transition: all .2s cubic-bezier(0, -0.79, 0.09, 1.05);
     }
 
 .surface button:hover{

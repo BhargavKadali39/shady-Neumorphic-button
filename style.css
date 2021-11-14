@@ -26,5 +26,6 @@ body{
 .surface button:hover{
     box-shadow: inset 6px -6px 20px 3px #0c1016, inset -8px 16px 20px 8px #304058;
     border-radius: 49% 51% 49% 51% / 80% 18% 82% 20% ;
+    cursor: pointer;
     
 }
